@@ -1,0 +1,14 @@
+~*
+Thumbs.db
+.DS_Store
+*.log
+*.sql
+*.sqlite
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

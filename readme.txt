@@ -1,4 +1,4 @@
-=== Charitable - razorpay Payment Gateway ===
+=== Charitable - Razorpay Payment Gateway ===
 Contributors: saurabhd,ashish112
 Tags: charitable,razorpay,indian,payment,gateway,charity,donations,donate,ngo,inr,philanthropy
 Donate link: https://techbrise.com/

@@ -25,7 +25,7 @@ Create Account with Rozarpay and enjoy 1.75%.
 
 == Installation ==
 
-1. Install the plugin from the [Wordpress Plugin Directory](https://wordpress.org/plugins/charitable-razorpay/).
+1. Install the plugin from the [Wordpress Plugin Directory](https://wordpress.org/plugins/integrate-charitable-razorpay/).
 2. To use this plugin correctly, you need to be able to make network requests. Please make sure that you have the php-curl extension installed.
 
 == Dependencies == 

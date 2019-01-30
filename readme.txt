@@ -76,8 +76,8 @@ It is good if you are having a GST certificate, but it is not mandatory.
 Key ID and Key Secret are not the same. Make sure you uncheck "Turn on Test Mode" in Charitable plugin Payment Gateway settings for live mode. If you want to use test mode, please select test mode in rozarpay dashboard and get Test Keys from there.
 
 == Screenshots ==
-1. razorpay Payment Screen
-2. razorpay setting page
+1. Razorpay Setting Page
+2. Razorpay Payment Screen
 3. Payment Screen with Payment Options
 
 == Changelog ==

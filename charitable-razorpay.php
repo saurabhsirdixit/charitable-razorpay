@@ -3,11 +3,11 @@
  * Plugin Name: 		Charitable - Razorpay Payment Gateway
  * Plugin URI: 			https://techbrise.com/
  * Description: 		Collect donations in INR via Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI by integrating razorpay Indian Payment Gateway.
- * Version: 			1.0.0
+ * Version: 			1.1.0
  * Author: 				TechBrise Solutions
- * Author URI: 			https://www.techbrise.com
- * Requires at least: 	4.9
- * Tested up to: 		5.0
+ * Author URI: 			https://techbrise.com
+ * Requires at least: 	4.0
+ * Tested up to: 		5.2
  *
  * Text Domain: 		integrate-charitable-razorpay
  * Domain Path: 		/languages/
@@ -16,6 +16,25 @@
  * @category 			Core
  * @author 				Techbrise Solutions 
  */
+
+/**
+Charitable - Razorpay Payment Gateway
+Copyright (C) 2019 TechBrise Solutions Private Limited
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+*/
 
 if ( ! defined( 'ABSPATH' ) )
 {

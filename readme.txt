@@ -4,7 +4,7 @@ Tags: charitable,razorpay,indian,payment,gateway,charity,donations,donate,ngo,in
 Requires at least: 3.9.2 or higher
 Tested up to: 5.3.2
 Requires PHP: 5.6 or higher
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 
 Collect donations in INR via Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI, NEFT, IMPS by integrating razorpay Indian Payment Gateway.
 
@@ -54,7 +54,7 @@ For more details about razorpay service and details about transactions you need 
 
 == Support ==
 
-1. For any issue with the plugin, or if you need help with setup/integration, mail at contact@techbrise.com.
+1. For any issue with the plugin, or if you need help with setup/integration then write us at https://wordpress.org/support/plugin/integrate-charitable-razorpay/
 2. For any issue with razorpay account send an email to https://razorpay.com/support/#request.
 
 == Frequently Asked Questions ==

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: 		Charitable - Razorpay Payment Gateway
  * Description: 		Collect donations in INR via Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI by integrating razorpay Indian Payment Gateway.
- * Version: 			1.1.1
+ * Version: 			1.1.2
  * Author: 				Saurabh Dixit
  * Requires at least: 	4.0
  * Tested up to: 		5.3.2

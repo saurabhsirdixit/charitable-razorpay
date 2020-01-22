@@ -1,11 +1,10 @@
 === Charitable - Razorpay Payment Gateway ===
-Contributors: saurabhd,ashish112
+Contributors: saurabhd
 Tags: charitable,razorpay,indian,payment,gateway,charity,donations,donate,ngo,inr,philanthropy
-Donate link: https://techbrise.com/
 Requires at least: 3.9.2 or higher
-Tested up to: 5.0.3
+Tested up to: 5.3.2
 Requires PHP: 5.6 or higher
-Stable tag: 1.0.0
+Stable tag: 1.1.1
 
 Collect donations in INR via Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI, NEFT, IMPS by integrating razorpay Indian Payment Gateway.
 
